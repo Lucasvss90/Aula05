@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+body{
+    background-image:url(https://www.promobit.com.br/blog/wp-content/uploads/2020/01/07121945/skateboard-1091710_1920.jpg);
+}
+
+#container{
+    
+    margin: auto;
+    width: auto;
+    height: auto;
+    border: solid;
+}
+
+#banner{
+    margin: 0 auto;
+    width: auto;
+    height: 178px;
+    background: #000;
+    color: #fff;
+}
+
+#link{
+    margin: 0;
+    width: 545px;
+    height: 800px;
+    background: red;
+    margin-top: 0px;
+    text-transform: uppercase;
+    border: solid;
+}
+
+#texto{
+    margin: 0;
+    width: 548px;
+    height: 800px;
+    margin-left: 550px;
+    margin-top: -808px;
+    background-image: linear-gradient(rgb(193, 197, 208), rgb(200, 202, 220),rgb(243, 243, 243));
+    color: #000;
+    font-style: unset;
+    text-align: center;
+    border: solid;
+}
+
+#video1{
+    margin: 5px, 5px, 5px, 5px;
+    width: 540px;
+    height: 400px;
+    margin-left: 1100px;
+    margin-top: -1708px;
+    background-image: linear-gradient(rgb(193, 197, 208), rgb(200, 202, 220),rgb(243, 243, 243));
+    color: #000;
+    font-style: unset;
+    text-align: center;
+    border: solid;
+}
+#video2{
+    margin: 5px, 5px, 5px, 5px;
+    width: 540px;
+    height: 400px;
+    margin-left: 1100px;
+    margin-top: -0px;
+    background-image: linear-gradient(rgb(193, 197, 208), rgb(200, 202, 220),rgb(243, 243, 243));
+    color: #000;
+    font-style: unset;
+    text-align: center;
+    border: solid;
+}
+#video3{
+    margin: 5px, 5px, 5px, 5px;
+    width: 548px;
+    height: 400px;
+    margin-left: 1650px;
+    margin-top: -1708px;
+    background-image: linear-gradient(rgb(193, 197, 208), rgb(200, 202, 220),rgb(243, 243, 243));
+    color: #000;
+    font-style: unset;
+    text-align: center;
+    border: solid;
+}
+#video4{
+    margin: 5px, 5px, 5px, 5px;
+    width: 548px;
+    height: 400px;
+    margin-left: 1650px;
+    margin-top: -0px;
+    background-image: linear-gradient(rgb(193, 197, 208), rgb(200, 202, 220),rgb(243, 243, 243));
+    color: #000;
+    font-style: unset;
+    text-align: center;
+    border: solid;
+}
+
+
+#footer{
+    margin: 0 auto;
+    width: 100%;
+    height: 50px;
+    background: rgb(119, 77, 77);
+    border: solid;
+}
+
+span{
+    font-family: 'Times New Roman';
+    text-decoration: solid;
+}
+
+#banner-img{
+    margin: 0 auto;
+    width: 100%;
+    height: 178px;
+}
+
+#rodape{
+    margin: 0 auto;
+    width: 840px;
+    height: 50px;
+}
+#imagens1, #imagens2{
+    margin: 25px auto;
+    width: 600px;
+    height: 320px;
+
+}
+
+nav{
+    padding: 50px;
+    text-align: center;
+}
